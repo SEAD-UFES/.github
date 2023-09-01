@@ -12,7 +12,7 @@ Neste repositório, você encontrará informações sobre os projetos de softwar
 
 ### SGC - Sistema de Gestão de Colaboradores da Sead/Ufes
 
-O SGC é um sistema de software desenvolvido internamente pela SEAD para gerenciar informações e processos relacionados aos colaboradores da Superintendência. Este projeto visa otimizar a gestão interna, o acompanhamento de atividades e a comunicação eficiente entre os membros da equipe.
+O SGC é um sistema de software desenvolvido internamente pela SEAD para gerenciar informações e processos relacionados aos colaboradores da Superintendência. Este projeto visa otimizar a gestão interna, o acompanhamento de documentos e a comunicação eficiente entre os membros da equipe.
 
 - [Projeto SGC](https://github.com/SEAD-UFES/sgc)
 - [Documentação](https://github.com/SEAD-UFES/sgc/tree/main/design)
